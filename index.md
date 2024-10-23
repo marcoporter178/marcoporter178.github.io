@@ -2,14 +2,14 @@
 layout: default
 ---
 
-# Your name 
+# Elizabeth Cornick 
 
 ## About me 
 
 Write here a blurb about your self. Create some links 
 
 ## Contact information
-
+emc988@miami.edu
 ## Education 
 
 Make a list of your degrees
