@@ -6,7 +6,7 @@ layout: default
 
 ## About me 
 
-Write here a blurb about your self. Create some links 
+Hello, my name Elizabeth! I am a second year PhD student in the English Department at the University of Miami. My research interests include digital humanities, queer studies, and American Studies.
 
 ## Contact information
 emc988@miami.edu
