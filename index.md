@@ -17,7 +17,7 @@ Marco Porter ([email](marcoporter178@gmail.com)).
   
 ## Publications 
 
-Make another list with your publications. 
+Make another list with your publications. Check out my Portuguese Portfolio/Zine [Here!](https://docs.google.com/presentation/d/1Jz360Te2JTNzx8atYD5-eZ1eRicWYs0bpMJaJFSp-Ec/edit?usp=sharing)
 
 ## My links 
 
